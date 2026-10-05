@@ -34,6 +34,16 @@ The control pattern is consistent: human review for consequential decisions; det
 
 The AI Twin platform includes multi-agent deployment, curated knowledge continuity, service observability, and explicit role and tool boundaries. The SquadMatch guarded-automation pilot uses an isolated Cloud Run API, structured assessments, synthetic-data safeguards, and protected result retrieval. WorkTravel Academy integrates a GCP-hosted Bonus API and verified Wix-to-GCP automations supporting member registration, engagement, and incentive workflows.
 
+## Sponsorship and contributor programme
+
+I am preparing a **GitHub Sponsors** profile to support practical developer learning, open-source contribution and review-first AI systems across WorkTravel Academy and Saulius Systems.
+
+- **Developers:** explore and contribute through [`worktravel-academy-core`](https://github.com/worktravel-saulius/worktravel-academy-core), [`contributor-verification-system`](https://github.com/worktravel-saulius/contributor-verification-system), and [`developer-learning-paths`](https://github.com/worktravel-saulius/developer-learning-paths).
+- **Sponsors and partners:** follow the public [Earn-to-Build: Incentive Flywheel](https://opencollective.com/earn-to-buildincentive-flywhee) programme context *(currently pending Open Collective approval)*.
+- **Programme design:** the GitHub Sponsors profile and any early-access interest route are in preparation. A merged pull request or sponsorship is evidence of support, **not** an automatic credit award, Copilot seat, paid role, cohort place or other entitlement.
+
+> We will publish a privacy-aware interest route only after capacity, eligibility, communication consent and review terms are defined. Please do not post personal contact details, seat requests or reward claims in public GitHub issues.
+
 ## Collaboration
 
 I work with founders, business leaders, and delivery teams that need AI to become an operating capability rather than a collection of disconnected experiments. If you are planning an AI readiness assessment, adoption roadmap, controlled automation pilot, or practical operating model, start at **[saulius-systems.com](https://www.saulius-systems.com/)**.
